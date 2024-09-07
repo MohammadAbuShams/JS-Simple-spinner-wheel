@@ -1,20 +1,15 @@
-# JavaScript Simple Spinner Wheel
+# Simple Spinner Wheel
 
-This project features a simple, interactive spinner wheel built with HTML, CSS, and JavaScript. The spinner wheel can be used for games, decision making, and educational purposes, providing a colorful and engaging user interface.
+Welcome to the JS Simple Spinner Wheel repository! This project is a lightweight, interactive spinner wheel created using HTML, CSS, and JavaScript. It's perfect for anyone needing a fun visual element for games, random draws, or decision-making tools.
 
-## Project Overview
+## Live Demo
 
-The Simple Spinner Wheel is designed to offer a user-friendly experience for generating random selections. It includes four colored segments and a "Spin" button that triggers the spinning action, making the selection process visually appealing and fun.
+Experience the spinner in action! Visit the live demo [here](https://mohammadabushams.github.io/JS-Simple-spinner-wheel/).
 
 ## Features
 
-- **Interactive Spinner Wheel**: Click to spin and get a random selection from the available options.
-- **Colorful Design**: Features four distinct colors: blue, yellow, green, and orange.
-- **Customizable Options**: Users can modify the number of segments and colors as needed.
+- **Interactive Design**: Users can spin the wheel by clicking a button, making the experience interactive.
+- **Customizable Segments**: The wheel can be customized to include any number of segments, each with its own color and label.
+- **Responsive Layout**: Designed to work on both desktop and mobile devices seamlessly.
 
-## Technologies Used
-
-- **HTML**: Structures the spinner and button components.
-- **CSS**: Styles the spinner, ensuring a vibrant and responsive design.
-- **JavaScript**: Powers the spinning logic and interactions.
 
