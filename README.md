@@ -4,7 +4,7 @@ Welcome to the JS Simple Spinner Wheel repository! This project is a lightweight
 
 ## Live Demo
 
-Experience the spinner in action! Visit the live demo [here](https://mohammadabushams.github.io/JS-Simple-spinner-wheel/).
+Experience the spinner in action! Visit the live demo here: [Simple Spinner Wheel](https://mohammadabushams.github.io/JS-Simple-spinner-wheel/).
 
 ## Features
 
